@@ -5,15 +5,16 @@ A complete end-to-end data analyst project to predict customer credit risk using
 ---
 
 ## 📁 Project Structure
-credit-score-risk-management/
-├── data/ # Raw and cleaned datasets
-├── notebooks/ # Step-by-step Jupyter notebooks
-│ ├── 01_data_loading.ipynb
-│ ├── 02_eda_cleaning.ipynb
-│ ├── 03_feature_engineering.ipynb
-│ ├── 04_model_building.ipynb
-│ └── 05_results_visualization.ipynb
-├── README.md # Project documentation
+credit-score-risk-management
+data/ # Raw and cleaned datasets
+
+# Step-by-step Jupyter notebooks
+01_data_loading.ipynb
+02_eda_cleaning.ipynb
+03_feature_engineering.ipynb
+04_model_building.ipynb
+05_results_visualization.ipynb
+README.md # Project documentation
 
 
 ---
